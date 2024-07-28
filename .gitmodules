@@ -1,0 +1,6 @@
+[submodule "submodules/submodule-1"]
+	path = submodules/submodule-1
+	url = https://github.com/oblitorum/submodule-1
+[submodule "submodules/submodule-2"]
+	path = submodules/submodule-2
+	url = https://github.com/oblitorum/submodule-2
